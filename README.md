@@ -8,6 +8,6 @@ The [Hair-Salon-Bar-Graph-Improvements.ipynb](https://github.com/SmellsLikeCake/
 
 ## Research Proposal
 
-The [Hair-Salon-Cancellations-Draft.ipynb](https://github.com/SmellsLikeCake/Hair-Salon-Cancellations/blob/master/Hair-Salon-Cancellations-Draft.ipynb) and [Hair-Salon-Cancellations-Final.ipynb](https://github.com/SmellsLikeCake/Hair-Salon-Cancellations/blob/master/Hair-Salon-Cancellations-Final.ipynb) notebooks explain a research proposal for an A/B Experiment to reduce no-shows and cancellations. I completed this work as part of my Data Science Bootcamp with Thankful.
+The [Hair-Salon-Cancellations-Draft.ipynb](https://github.com/SmellsLikeCake/Hair-Salon-Cancellations/blob/master/Hair-Salon-Cancellations-Draft.ipynb) and [Hair-Salon-Cancellations-Final.ipynb](https://github.com/SmellsLikeCake/Hair-Salon-Cancellations/blob/master/Hair-Salon-Cancellations-Final.ipynb) notebooks explain a research proposal for an A/B Experiment to reduce no-shows and cancellations. I completed this work as part of my Data Science Bootcamp with Thinkful.
 
 
